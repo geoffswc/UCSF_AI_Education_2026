@@ -89,6 +89,9 @@ Be aware that:
 
 For this workshop, we'll use ChatGPT from UCSF Enterprise OpenAI. However, you can follow along with other GenAI systems.
 
+**Dataset**: Marketing to Youth MSA Collection
+- https://ucsf.app.box.com/v/IDL-DataSets/file/484599836694
+
 ---
 
 ### 3. Structured Analysis (Python / SQL)
@@ -101,3 +104,6 @@ Load the dataset directly to:
 - Build reproducible workflows
 
 For this workshop, we will use Google Colab, Python, and SQL. 
+
+**Dataset**: Marketing to Youth MSA Collection
+- https://ucsf.app.box.com/v/IDL-DataSets/file/484599836694
