@@ -39,7 +39,7 @@ This is a structured but flexible experiment in practical research methods.
 
 ## What You Will Do
 
-1. Explore a health-related industry dataset from the UCSF Industry Documents Library.
+1. Explore a tobacco industry dataset from the UCSF Industry Documents Library.
 2. Analyze it using one or more approaches:
    - The browsing app
    - LLM-only (ChatGPT)
@@ -57,10 +57,12 @@ How do these tools behave in a research or classroom setting?
 
 ## Available Tools
 
-### 1. Browsing Application
-A purpose-built interface that allows document exploration, filtering, and viewing.
+### 1. Curated Browsing Application
+
+The Industry Documents Library offers an interface that allows document exploration, filtering, and viewing, along with historical context for the collection. 
 
 Use this to:
+- Gain insight from achivists, researchers, and industry analysts
 - Quickly scan content
 - Identify promising subsets
 - Observe metadata structure
@@ -68,6 +70,8 @@ Use this to:
 Consider:
 - What structure does the interface expose?
 - What structure does it abstract away?
+
+https://www.industrydocuments.ucsf.edu/tobacco/collections/marketing-to-youth-msa-collection/
 
 ---
 
@@ -83,6 +87,8 @@ Be aware that:
 - Structure may need to be clarified explicitly
 - File format (e.g., pipe-delimited) must sometimes be specified
 
+For this workshop, we'll use ChatGPT from UCSF Enterprise OpenAI. However, you can follow along with other GenAI systems.
+
 ---
 
 ### 3. Structured Analysis (Python / SQL)
@@ -94,10 +100,4 @@ Load the dataset directly to:
 - Aggregate, filter, and query at scale
 - Build reproducible workflows
 
-Example:
-
-```python
-import pandas as pd
-
-df = pd.read_csv("documents_full.csv", sep="|")
-df.head()
+For this workshop, we will use Google Colab, Python, and SQL. 
