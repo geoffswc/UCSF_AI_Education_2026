@@ -110,7 +110,7 @@ For this workshop, we will use Google Colab, Python, and SQL.
 
 ## About the Instructor
 
-Geoff Boushey is a Data Science Specialist with the UCSF Library’s Data Science and Open Scholarship Group. He teaches practical programming and data analysis workshops for faculty, staff, and students, including Python, SQL, Unix, machine learning, and AI-based document analysis. His work focuses on building reproducible, cloud-based pipelines that help researchers analyze large collections of text, video, image, and audio data from the UCSF Industry Documents Library and other archival collections.
+Geoffrey Boushey is a Data Science Specialist with the UCSF Library’s Data Science and Open Scholarship Group. He teaches practical programming and data analysis workshops for faculty, staff, and students, including Python, SQL, Unix, machine learning, and AI-based document analysis. His work focuses on building reproducible, cloud-based pipelines that help researchers analyze large collections of text, video, image, and audio data from the UCSF Industry Documents Library and other archival collections.
 
 In addition to teaching, Geoff designs AI-assisted workflows that generate transcripts, metadata, and structured datasets for research use. Before joining UCSF, he worked in analytics and software development roles at Sun Microsystems, UC Berkeley, and Software Startups. He holds an MS in Industrial Engineering and Operations Research from UC Berkeley.
 
