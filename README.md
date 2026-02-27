@@ -1,4 +1,4 @@
-# Industry Archives Text Analysis Workshop
+# Integrating Code and GenAI into Real-Time Group Workshop Projects
 ## UCSF_AI_Education_2026
 
 
