@@ -113,3 +113,19 @@ For this workshop, we will use Google Colab, Python, and SQL.
 Geoff Boushey is a Data Science Specialist with the UCSF Library’s Data Science and Open Scholarship Group. He teaches practical programming and data analysis workshops for faculty, staff, and students, including Python, SQL, Unix, machine learning, and AI-based document analysis. His work focuses on building reproducible, cloud-based pipelines that help researchers analyze large collections of text, video, image, and audio data from the UCSF Industry Documents Library and other archival collections.
 
 In addition to teaching, Geoff designs AI-assisted workflows that generate transcripts, metadata, and structured datasets for research use. Before joining UCSF, he worked in analytics and software development roles at Sun Microsystems, UC Berkeley, and Software Startups. He holds an MS in Industrial Engineering and Operations Research from UC Berkeley.
+
+## AI Use Disclosure
+
+This session includes the use of **ChatGPT Enterprise (UCSF deployment, GPT-4 class model, February 2026)**.
+
+**To prepare material for this session, AI was used for**:
+- Drafting example prompts and code snippets  
+- Testing document parsing and analysis workflows  
+- Assisting in preparation of selected written materials  
+- Live demonstration of text analysis methods during the workshop  
+
+**As an instructional tool**:
+- Generative AI will be used as an analytical tool to demonstrate document analysis techniques on archival datasets.
+- All AI-generated outputs included in the presentation were reviewed, tested, and verified by the instructor prior to inclusion. Code examples were executed and validated in Python/SQL environments where applicable.
+- Demonstration materials are limited to publicly available archival datasets.
+- Learners will be informed when AI-generated content is being demonstrated during the session.
