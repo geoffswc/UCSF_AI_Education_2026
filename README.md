@@ -108,11 +108,22 @@ For this workshop, we will use Google Colab, Python, and SQL.
 **Dataset**: Marketing to Youth MSA Collection
 - https://ucsf.app.box.com/v/IDL-DataSets/file/484599836694
 
+---
+
 ## About the Instructor
 
 Geoffrey Boushey is a Data Science Specialist with the UCSF Library’s Data Science and Open Scholarship Group. He teaches practical programming and data analysis workshops for faculty, staff, and students, including Python, SQL, Unix, machine learning, and AI-based document analysis. His work focuses on building reproducible, cloud-based pipelines that help researchers analyze large collections of text, video, image, and audio data from the UCSF Industry Documents Library and other archival collections.
 
 In addition to teaching, Geoff designs AI-assisted workflows that generate transcripts, metadata, and structured datasets for research use. Before joining UCSF, he worked in analytics and software development roles at Sun Microsystems, UC Berkeley, and Software Startups. He holds an MS in Industrial Engineering and Operations Research from UC Berkeley.
+
+---
+
+## Spring Workshop Series
+
+The UCSF Library offers a 10-part workshop series in Document Analysis with Python, SQL, and AI.
+- https://www.library.ucsf.edu/news/python-sql-and-ai-workshops-spring-2026/
+
+---
 
 ## AI Use Disclosure
 
